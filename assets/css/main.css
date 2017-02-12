@@ -26,16 +26,6 @@
 		line-height: 1;
 	}
 
-banner{
-background-image: url("../../images/banner3.jpg");
-		background-position: top right;
-		background-repeat: no-repeat;
-		background-size: cover;
-		content: '';
-		display: block;
-		height: 15em;
-		width: 100%;	
-}
 
 	ol, ul {
 		list-style: none;
