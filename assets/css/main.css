@@ -2017,12 +2017,12 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2.25em 0;
-			width: 50%;
+			width: 100%;
 		}
 
 			.image.fit img {
 				display: block;
-				width: 100%;
+				width: 50%;
 			}
 
 		.image.avatar {
